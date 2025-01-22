@@ -1,4 +1,5 @@
-import logo from './logo.svg';
+import Bosta from './components/Bosta'
+
 import './App.css';
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
       <div>
         <h1>ola mundo</h1>
       </div>
+      <Bosta />
     </div>
   );
 }
